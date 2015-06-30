@@ -1,0 +1,2 @@
+# DogeLotto
+Dogecoin lottery website
